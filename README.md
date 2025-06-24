@@ -76,10 +76,3 @@ CT_Segmentation/
 - The `data/` and `venv/` folders are excluded from version control.
 - All outputs (meshes, images) are saved in the `data/` directory.
 
-## License
-
-MIT License
-
-## Acknowledgements
-
-- Uses [vedo](https://vedo.embl.es/), [trimesh](https://trimsh.org/), [scikit-image](https://scikit-image.org/), and [nrrd](https://pynrrd.readthedocs.io/).
