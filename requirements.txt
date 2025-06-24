@@ -1,0 +1,10 @@
+requests
+numpy
+pynrrd
+trimesh
+scikit-image
+scipy
+vedo
+matplotlib
+ipykernel
+ipyvtklink
