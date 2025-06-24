@@ -155,7 +155,7 @@ for _label in range(1, 7):
     mesh.export(f"data/meshes_colored/label_{_label}.ply")
 
 
-print("✅ All meshes saved in the 'meshes' directory.")
+print("All meshes saved in the 'meshes' directory.")
 
 # ------------------------------------------------------------------------
 # Task 6
