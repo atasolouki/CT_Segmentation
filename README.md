@@ -38,24 +38,24 @@ This project provides tools and scripts for 3D CT scan segmentation, visualizati
 4. **Start Jupyter Notebook or open `tasks.ipynb` in VS Code.**
 
 
-## 🧪 Running the Tasks
+## Running the Tasks
 
 All tasks are implemented in both:
 
-- 📓 `tasks.ipynb` — for step-by-step interactive execution in Jupyter
-- 🐍 `main.py` — the exact same logic in script form for terminal execution
+- `tasks.ipynb` — for step-by-step interactive execution in Jupyter
+- `main.py` — the exact same logic in script form for terminal execution
 
 ---
 
-### 🔽 What it does
+### What it does
 
 Running the notebook or script will:
 
-1. 📥 Download sample CT scan and mask data
-2. ✂️ Crop the CT volumes based on provided bounding box
-3. 🧱 Run marching cubes to generate 3D meshes
-4. 👁️ Visualize middle slices in axial, coronal, and sagittal planes
-5. 📊 Compute and display segmentation metrics
+1. Download sample CT scan and mask data
+2. Crop the CT volumes based on provided bounding box
+3. Run marching cubes to generate 3D meshes
+4. Visualize middle slices in axial, coronal, and sagittal planes
+5. Compute and display segmentation metrics
 
 
 ## Directory Structure
